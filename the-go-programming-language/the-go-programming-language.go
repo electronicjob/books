@@ -1,6 +1,6 @@
 package main
-
 // book - The Go Programming Language
+//01234567890
 
 import (
 	"fmt"
@@ -13,65 +13,68 @@ func main() {
 		//fmt.Scanf("%s", &tmp)
 	}()
 	PerformTitle()
-	chapterOne()
+	chapter1()
 }
 
-func chapterOne() {
-	printTitle("  Chapter One: \n")
-
+func chapter1() {
+	printTitle("  Chapter 1:\n")
 	//
 }
 
-func chapterTwo() {
-	printTitle("  Chapter Two: \n")
+func chapter2() {
+	printTitle("  Chapter 2:\n")
 }
 
-func chapterThree() {
-	printTitle("  Chapter Three: \n")
+func chapter3() {
+	printTitle("  Chapter 3:\n")
 }
 
-func chapterFour() {
-	printTitle("  Chapter Four: \n")
+func chapter4() {
+	printTitle("  Chapter 4:\n")
 }
 
-func chapterFive() {
-	printTitle("  Chapter Five: \n")
+func chapter5() {
+	printTitle("  Chapter 5:\n")
 }
 
-func chapterSix() {
-	printTitle("  Chapter Six: \n")
+func chapter6() {
+	printTitle("  Chapter 6:\n")
 }
 
-func chapterSeven() {
-	printTitle("  Chapter Seven: \n")
+func chapter7() {
+	printTitle("  Chapter 7:\n")
 }
 
-func chapterEight() {
-	printTitle("  Chapter Eight: \n")
+func chapter8() {
+	printTitle("  Chapter 8:\n")
 }
 
-func chapterNine() {
-	printTitle("  Chapter Nine: \n")
+func chapter9() {
+	printTitle("  Chapter 9:\n")
 }
 
-func chapterTen() {
-	printTitle("  Chapter Ten: \n")
+func chapter10() {
+	printTitle("  Chapter 10:\n")
 }
 
-func chapterEleven() {
-	printTitle("  Chapter Eleven: \n")
+func chapter11() {
+	printTitle("  Chapter 11:\n")
 }
 
-func chapterTwelve() {
-	printTitle("  Chapter Twelve: \n")
+func chapter12() {
+	printTitle("  Chapter 12:\n")
 }
 
-func chapterThirteen() {
-	printTitle("  Chapter Thirteen: \n")
+func chapter13() {
+	printTitle("  Chapter 13:\n")
 }
 
-func chapterFourteen() {
-	printTitle("  Chapter Fourteen: \n")
+func chapter14() {
+	printTitle("  Chapter 14:\n")
+}
+
+func chapter15() {
+	printTitle("  Chapter 15:\n")
 }
 
 func PrintTitle() {
